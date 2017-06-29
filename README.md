@@ -1,3 +1,5 @@
+# Holger's Performance Analysis Blog
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brunst/PerformanceBlog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
