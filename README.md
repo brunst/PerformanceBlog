@@ -10,4 +10,7 @@ There are tons of tools available that address performance debugging and analysi
 Feel free to use whatever you think is approriate or available in your context. 
 In the end, tuning methodology tends to be very similar accross all supportive tools.
 I personally have a work affiliation with the tools listed at [VIRTUAL INSTITUTE – HIGH PRODUCTIVITY SUPERCOMPUTING](http://www.vi-hps.org).
-This blog documents analysis exmaples taken from my regular work using above performance tools. 
+This blog documents analysis exmaples taken from my regular work using above performance tools.
+I noticed that working with performance tools is not always as easy as one would hope.
+Therefore, I want to share my experiences and provide an insight into what's actually possible and how one can get there.
+
