@@ -1,6 +1,9 @@
-# Holger's Performance Analysis Blog
+## Welcome to this software performance analysis blog
 
-## Welcome to GitHub Pages
+Today, software performance strongly depends on the approriate usage of system hardware and software. 
+Unfortunately, efficient software is not generated automatically by compilers in most cases.
+Usually, software needs to be tuned for optimal usage of vector registers, cache memory, multiple cores, GPU accelerators, and network interconnects.  
+Without manual optimization, the total computational performance tends to be lower than 1% of the theoretical peak performance.    
 
 You can use the [editor on GitHub](https://github.com/brunst/PerformanceBlog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
