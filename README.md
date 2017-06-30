@@ -13,7 +13,7 @@ This blog documents analysis exmaples taken from my regular work using above per
 I noticed that working with performance tools is not always as easy as one would hope.
 Therefore, I want to share my experiences and provide an insight into what's actually possible and how one can get there.
 
-### Blog Posts
+# Blog Posts
 
 ## Workflow analysis with Score-P. Studiying an MPI-parallel application that outsources its computation to multiple parallel instances of a legacy solver.
 _Friday 30 June 2017_
