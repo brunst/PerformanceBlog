@@ -1,4 +1,4 @@
-## Welcome to my software performance analysis blog
+# Welcome to my software performance analysis blog
 Today, software performance strongly depends on the appropriate usage of system hardware and software. 
 Unfortunately, efficient software is not generated automatically by compilers in most cases.
 Software needs to be tuned (manually) for optimal usage of vector registers, cache memory, multiple cores, GPU accelerators, and network interconnects.  
