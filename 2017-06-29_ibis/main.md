@@ -1,6 +1,9 @@
-# Holger's Performance Analysis Blog
+# Workflow analysis with Score-P and Vampir
 
-## Welcome to GitHub Pages
+## Motivation
+
+Today, I am writing about analyzing a simulation workflow that is a bit tricky.
+It combines a parallel executable (the workflow master) and a serial solver that is called from this master multiple times.    
 
 You can use the [editor on GitHub](https://github.com/brunst/PerformanceBlog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
