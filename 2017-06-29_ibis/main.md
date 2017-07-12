@@ -1,4 +1,4 @@
-[back](README.md)
+[back](../README.md)
 
 ## Workflow analysis with Score-P and Vampir
 
