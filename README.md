@@ -19,6 +19,8 @@ Therefore, I want to share my experiences and provide an insight into what's act
 
 _Friday 30 June 2017_
 
+![Timeline of a workflow master job](2017-06-29_ibis/WorkflowMaster.png)
+
 Traditionally, computer simulations tend to be monolithic programs that read a configuration file, perform the simulation, and write results to an output file.
 With science domains like the life sciences, chemistry or machine learning entering the high performance computing domain this concept experiences a change towards a more workflow-like approach that involves a collection of chained (standard) solvers and components.    
 
