@@ -16,9 +16,9 @@ Therefore, I want to share my experiences and provide an insight into what's act
 # Blog Posts
 
 ## Workflow analysis with Score-P and Vampir
-### Studying an MPI-parallel simulation program that outsources its computation to multiple parallel instances of a serial legacy solver
-
 _Friday 30 June 2017_
+
+On studying an MPI-parallel simulation program that outsources its computation to multiple parallel instances of a serial legacy solver.
 
 ![Timeline of a workflow master job](2017-06-29_ibis/WorkflowMaster.png)
 
