@@ -1,6 +1,8 @@
-# Workflow analysis with Score-P and Vampir
+[back](README.md)
 
-## Motivation
+## Workflow analysis with Score-P and Vampir
+
+### Motivation
 
 Today, I am writing about analyzing a simulation workflow that is a bit tricky.
 It combines a parallel executable (the workflow master) and a serial solver that is called from this master multiple times.    
